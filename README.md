@@ -1,8 +1,8 @@
 # Vacant-Parking-Space-Detection
 In this project, we purpose a solution for effective use of the main parking space of LNMIIT. Using the region growing technique we are segmenting area available and the cars present on a given image. Also, the perspective of the image was changed in order to apply the algorithm on it.
 ## Requirements
-    Python3
-    OpenCV
+- Python3
+- OpenCV
 
 ## Introduction
 
@@ -14,8 +14,8 @@ To start the project, we first of all manually took the pictures of the site fro
 
 By performing all the above-mentioned techniques, we reached to a very good model which gave desired results. There are few issues that can be worked upon in future-
 
-    We couldn’t incorporate the space occupied by the grass and trees. It can be done by specifying multiple ranges and tuning them such that they can differ between grass and trees.
-    We couldn’t incorporate the orientation of the window that we used for calculating the number of available spaces for the car parking.
+- We couldn’t incorporate the space occupied by the grass and trees. It can be done by specifying multiple ranges and tuning them such that they can differ between grass and trees.
+- We couldn’t incorporate the orientation of the window that we used for calculating the number of available spaces for the car parking.
 
 ## Discussion
 
